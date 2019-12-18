@@ -15,4 +15,9 @@ public class Azure2Controller {
 	public String azure2home() {
 		return "same endpoint as azure1 project";
 	}
+	
+	@GetMapping("/home1")
+	public String azure3home() {
+		return "to test the GIT commit";
+	}
 }
