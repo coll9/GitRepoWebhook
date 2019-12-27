@@ -18,6 +18,6 @@ public class Azure2Controller {
 	
 	@GetMapping("/home1")
 	public String azure3home() {
-		return "to test the GIT commit";
+		return "test ci in github";
 	}
 }
