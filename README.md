@@ -9,7 +9,7 @@ This is an example to demonstrate creation of webHooks in github using the GitHu
   
   Instructions to use this code
   1. Download or Clone the repository
-  2. Update the application.properties with git user name, user token (generated from git).
+  2. Update the application.properties with git user name, user token (generated from GitHub).
   3. Run the application - mvnw spring-boot:run
   
   The URL for the git webhook is 
