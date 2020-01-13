@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
-public class Azure2Controller {
+public class RepoController {
 
-	Logger logger = LoggerFactory.getLogger(Azure2Controller.class);
+	Logger logger = LoggerFactory.getLogger(RepoController.class);
 
 	private final String BASEURL = "https://api.github.com/repos/";
 	private final String BRANCHAPI = "/branches/master/protection";
