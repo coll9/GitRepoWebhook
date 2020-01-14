@@ -26,7 +26,7 @@ The URL for the github webhook should be
 
 [GitHub Generate token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
 
-[GitHub Create and issue](https://developer.github.com/v3/issues/#create-an-issue)
+[GitHub Create an issue](https://developer.github.com/v3/issues/#create-an-issue)
 
 [GitHub Organization Permission](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization)
 
