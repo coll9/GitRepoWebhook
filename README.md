@@ -21,9 +21,13 @@
 The URL for the github webhook should be
 `http://<servername:port>/repo`
 
-[GitHub Documentation Home Page](https://developer.github.com/v3/auth/)
+##### Links to API documentation 
+[GitHub API Documentation Home Page](https://developer.github.com/v3/auth/)
+
 [GitHub Generate token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
+
 [GitHub Create and issue](https://developer.github.com/v3/issues/#create-an-issue)
+
 [GitHub Organization Permission](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization)
 
 
